@@ -23,4 +23,6 @@ body {
 	border: 5px rgb(152,173,166) solid;
 /* Write all remaining styles here */
 
-color: rgb(152,173,166);
+header a {
+    color: rgb(152,173,166);
+    text-decoration: none;
